@@ -1,7 +1,6 @@
-
-"""
-Program: String Manipulation
-Purpose: Transform text, count words, and find palindromes.
+# Author: Michael Moody
+# Program: String Manipulation
+# Purpose: Transform text, count words, and find palindromes.
 The program validates text input and handles empty input.
 """
 
