@@ -1,7 +1,6 @@
-
-"""
-Program: Circle Area Calculator
-Purpose: Calculate the area of a circle using its radius.
+#Author:Michael Moody
+# Program: Circle Area Calculator
+# Purpose: Calculate the area of a circle using its radius.
 The program validates input and retries if the input is invalid.
 """
 
